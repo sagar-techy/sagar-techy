@@ -19,7 +19,7 @@ When I'm not coding, you can find me experimenting with new technologies, contri
 <h3 align="left">Lets Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sagar-awadhiya-25418430a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGVopCkmmR9qZSRgE3bvu%2FA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="Prashant-Awadhiya" height="30" width="40" /></a>
-<a href="[https://www.instagram.com/prashant.rjn?igsh=ZmxhZGNoZTBlM3h3](https://www.instagram.com/s__manish?igsh=eWVrOTRsZnl2ZDBv)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant.rjn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/s__manish?igsh=eWVrOTRsZnl2ZDBv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashant.rjn" height="30" width="40" /></a>
 
 ## GitHub Stats
 
